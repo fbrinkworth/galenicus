@@ -1,0 +1,3 @@
+- Las variables de entorno y configuración las implementé según:
+https://github.com/driftyco/ionic-cli/issues/1205
+el post de dnmd
